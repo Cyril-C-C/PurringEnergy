@@ -9,10 +9,14 @@ const TeamContent = () => {
             Our Heros, <span style={{ color: '#f44336' }}>Our Community</span>
           </h1>
           <p>
-            Our high performance culture yields best investment results that
-            stand up to the toughest and volatility of marketplace. We will
-            continue to learn, study and analyse periodic market performances in
-            taking best and unique opportunities available.
+            Our high performance culture yields best, sustainable results that
+            stand up to the toughest demand and volatility of energy
+            marketplace. The biggest names in the industry entrust their pains
+            and products to us year afer year because our team gets results.
+            <br />
+            <br />
+            We will continue to learn, study and analyse ever - evolving energy
+            landscape in taking best and unique opportunities available.
             <br />
             <br />
             We're not rock stars, zombies, or magicians. We're authentic,
@@ -27,7 +31,7 @@ const TeamContent = () => {
             <span style={{ color: '#f44336' }}>Portfolios</span> ~ 3.
           </p>
           <a
-            href='https://www.linkedin.com/company/purringca'
+            href='https://www.linkedin.com/company/purringen'
             target='_blank'
             rel='noreferrer'
             className='hero-btn red-btn-main'

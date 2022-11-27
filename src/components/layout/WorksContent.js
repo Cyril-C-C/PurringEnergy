@@ -10,9 +10,12 @@ const WorksContent = () => {
             <span style={{ color: '#f44336' }}>You Deserve</span>
           </h1>
           <p>
-            We diversify our investment portfolios all across conservative
-            through volatile to very volatile investment opportunities in
-            sustainable approach.
+            Every project is born from a special set of challenges. We are proud
+            of each and every service we provide, whether for our associates,
+            partners, communities, companies, financial or governmental
+            institutions. Organizations partner with us to unlock solutions
+            catered for their needs today anf flexible for what they will want
+            tomorrow.
             <br />
             <br />
             Consistency and great timing shape how we build our vision, culture
@@ -20,17 +23,19 @@ const WorksContent = () => {
             strategies and intelligences.
             <br />
             <br />
-            Purring Capital has invested in: Technology Company.
+            Purring Energy has experts in: Petrophysics, Geoscience,
+            Engineering, and Staffing and Recruitment.
             <br />
             <br />
-            <span style={{ color: '#f44336' }}>Founded</span> ~ 2017.
+            <span style={{ color: '#f44336' }}>Founded</span> ~ 2019.
             <br />
             <br />
-            <span style={{ color: '#f44336' }}>Specialties</span> ~ General
-            Contracts and Technology Services.
+            <span style={{ color: '#f44336' }}>Specialties</span> ~ Climate
+            Intelligence, Petrophysics, Geoscience, Engineering, Staffing and
+            Recruitment, General Contracts.
           </p>
           <a
-            href='https://www.linkedin.com/company/purringca'
+            href='https://www.linkedin.com/company/purringen'
             target='_blank'
             rel='noreferrer'
             className='hero-btn red-btn-main'

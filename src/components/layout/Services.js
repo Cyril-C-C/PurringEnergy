@@ -70,20 +70,23 @@ const Services = () => {
       <section className='testiomonial'>
         <h1 style={{ color: 'red', fontSize: '1.25rem' }}>Geoscience</h1>
         <p>
-          Consistency and great timing shape how we build our vision, culture
-          and portfolios. We have goals, through which we meet by best
-          strategies and intelligences.
+          Provision of shore - based and wellsite - based services, which helps
+          in making important operational decisions. And efficient intergration
+          of suites of data with geologic and geophysical information in
+          frontier as well as mature basins facilitates best results.
         </p>
 
         <section className='row'>
           <section className='testimonial-col' id='testimonial-col'>
             <i class='fa fa-shopping-basket' id='set' aria-hidden='true' />
             <section>
-              <span>Stocks & Bonds</span>
+              <span>Stratigraphy</span>
               <hr />
               <p>
-                Our expertise carefully analyses stocks and bonds investment
-                opportunities before we move to such deals of interest.
+                Maximum utilization of Biostratigraphic and Sequence
+                Stratigraphic, be it conventional and quantitative, insights
+                using available suites of data in reducing exploration and
+                production risks.
               </p>
               <i className='fa fa-star' id='fa fa-star'></i>
               <i className='fa fa-star' id='fa fa-star'></i>
@@ -96,11 +99,13 @@ const Services = () => {
           <section className='testimonial-col' id='testimonial-col'>
             <i class='fa fa-address-card-o' id='set' aria-hidden='true' />
             <section>
-              <span>REITs & Crowdfunding</span>
+              <span>Structural & Stratigraphic Modeling</span>
               <hr />
               <p>
-                We stay at par with world emerging tech, climate and business
-                intelligences when it comes to real estate deals.
+                Using data - driven Static Models to optimize Oil & Gas projects
+                at each stage: exploration, development and production, sound
+                business decisions we make. Based on the demands, we model for
+                purpose - fitnesses.
               </p>
               <i className='fa fa-star' id='fa fa-star'></i>
               <i className='fa fa-star' id='fa fa-star'></i>
@@ -113,11 +118,13 @@ const Services = () => {
           <section className='testimonial-col' id='testimonial-col'>
             <i class='fa fa-signal' id='set' aria-hidden='true' />
             <section>
-              <span>Crytography</span>
+              <span>Petroleum System Analysis & Basin Modeling</span>
               <hr />
               <p>
-                We position, with least portions of our portfolio, to taking
-                best advantages in fungible and non - fungible tokens.
+                Understanding heat flow controls and processes through time,
+                assessment of source rock distribution, quantity and quality of
+                source hydrocarbons, kerogen type variability and its control on
+                petroleum generation.
               </p>
               <i className='fa fa-star' id='fa fa-star'></i>
               <i className='fa fa-star' id='fa fa-star'></i>

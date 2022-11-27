@@ -1,21 +1,21 @@
 export const MenuItems = [
   {
-    title: 'Legal Team',
+    title: 'Petrophysics',
     path: '/ui-ux',
     cName: 'dropdown-link',
   },
   {
-    title: 'Accounting',
+    title: 'Geoscience',
     path: '/design',
     cName: 'dropdown-link',
   },
   {
-    title: 'Economic',
+    title: 'Engineering',
     path: '/front-end',
     cName: 'dropdown-link',
   },
   {
-    title: 'Investment',
+    title: 'Legal Team',
     path: '/back-end',
     cName: 'dropdown-link',
   },
@@ -25,7 +25,7 @@ export const MenuItems = [
     cName: 'dropdown-link',
   },
   {
-    title: 'Tax Team',
+    title: 'Economics',
     path: '/testing',
     cName: 'dropdown-link',
   },
