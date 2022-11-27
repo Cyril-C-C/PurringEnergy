@@ -16,7 +16,7 @@ const Services = () => {
           <section className='testimonial-col' id='testimonial-col'>
             <i class='fa fa-briefcase' id='set' aria-hidden='true' />
             <section>
-              <span>Angel Investment</span>
+              <span>Operations Petrophysics</span>
               <hr />
               <p>
                 As we grow, we look forward to playing roles and becoming one of
@@ -33,7 +33,7 @@ const Services = () => {
           <section className='testimonial-col' id='testimonial-col'>
             <i class='fa fa-mobile' id='set' aria-hidden='true' />
             <section>
-              <span>Partnership & Smart Contracts</span>
+              <span>Log Analysis</span>
               <hr />
               <p>
                 Through collaborations and use of technology, we aim at
