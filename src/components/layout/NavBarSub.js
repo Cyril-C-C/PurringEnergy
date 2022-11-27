@@ -17,7 +17,7 @@ const NavBarSub = () => {
               <Link to='/About'>ABOUT</Link>
             </li>
             <li>
-              <Link to='/Works'>PORTFOLIOS</Link>
+              <Link to='/Works'>PROJECTS</Link>
             </li>
             <li>
               <Link to='/Team'>TEAM</Link>

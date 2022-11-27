@@ -16,7 +16,7 @@ const Footer2 = () => {
               <a href='/About'>ABOUT</a>
             </li>
             <li>
-              <a href='/Works'>PORTFOLIOS</a>
+              <a href='/Works'>PROJECTS</a>
             </li>
             <li>
               <a href='/Team'>TEAM</a>
@@ -41,7 +41,7 @@ const Footer2 = () => {
             <i className='fa fa-github' id='fa fa-github' />
           </a> */}
           <a
-            href='https://www.linkedin.com/company/purringca'
+            href='https://www.linkedin.com/company/purringen'
             target='_blank'
             rel='noreferrer'
           >

@@ -10,16 +10,33 @@ const AboutContent = () => {
             <span style={{ color: '#f44336' }}>Realities...</span>
           </h1>
           <p>
-            Purring Capital is a financial and investment company. It is
+            Purring Energy is an energy solution product and servicing company
             committed to proffering incredible and sustainable values to its
-            clients and communities.
+            clients and communities. Its esteemed clients cut across major and
+            independent Oil & Gas, Exploration and Production (E&P), Renewable
+            Energy companies, and financial institutions funding energy
+            projects.
             <br />
             <br />
-            <span style={{ color: '#f44336' }}>Founded</span> ~ 2017.
+            Petrophysics, Geoscience, Engineering with sound sense of Climate
+            Intelligence, and Staffing and Recruitment are main services we
+            provide. Integration, listening and making business - focused
+            interpretation of sub - surface as well as surface Geoscience and
+            Engineering data are our core competences; with the view to
+            presenting and enriching our esteemed clients with sound intergrated
+            solutions.
             <br />
             <br />
-            <span style={{ color: '#f44336' }}>Specialties</span> ~ General
-            Contracts.
+            Purring Energy started operation in 2019 shortly after its
+            establishment.
+            <br />
+            <br />
+            <span style={{ color: '#f44336' }}>Founded</span> ~ 2019.
+            <br />
+            <br />
+            <span style={{ color: '#f44336' }}>Specialties</span> ~ Climate
+            Intelligence, Petrophysics, Geoscience, Engineering, Staffing and
+            Recruitment, General Contracts.
           </p>
           <a
             href='https://twitter.com/_Purring_?t=3tbsLvQKm_qYSVL9DBlcbg&s=08'

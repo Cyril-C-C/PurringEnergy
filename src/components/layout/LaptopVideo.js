@@ -11,11 +11,12 @@ const LaptopVideo = () => {
           </h1>
           <p>
             Our vision is to play roles and become one of key and successful
-            investment companies.
+            Nigerian indigenous energy companies.
             <br />
             <br />
             Our Mission is to set remarkable trails as we contribute to our
-            partners, other companies and governmental institutions.
+            associates, partners, communities, companies, financial and
+            governmental institutions.
             <br />
             <br />
             Our goals are met through elements of consistency, patience, skills
@@ -34,7 +35,7 @@ const LaptopVideo = () => {
             all our Esteemed Customers first.
           </p>
           <a
-            href='https://www.linkedin.com/company/purringca/'
+            href='https://www.linkedin.com/company/purringen/'
             target='_blank'
             rel='noreferrer'
             className='hero-btn red-btn-main'
