@@ -23,7 +23,7 @@ const AboutContent = () => {
             provide. Integration, listening and making business - focused
             interpretation of sub - surface as well as surface Geoscience and
             Engineering data are our core competences; with the view to
-            presenting and enriching our esteemed clients with sound intergrated
+            presenting and enriching our esteemed clients with sound integrated
             solutions.
             <br />
             <br />

@@ -7,9 +7,12 @@ const Services = () => {
         <h1>Upstream (Hydrocarbons) Services</h1>
         <h1 style={{ color: 'red', fontSize: '1.25rem' }}>Petrophysics</h1>
         <p>
-          We diversify our investment portfolios all across conservative,
-          through volatile, to very volatile investment opportunities in
-          sustainable approach.
+          Integration of all sub - surface displines (geology, geophysics,
+          petrophysics, reservoir engineering and production technology) towards
+          creating sound knowledge streams that deliver high quality products to
+          our esteemed clients. Suites of data: log, core, formation pressure
+          and other supporting data are being made useful in developing clear,
+          consistent and repeatable workflows and evalution protocols.
         </p>
 
         <section className='row'>
@@ -19,8 +22,16 @@ const Services = () => {
               <span>Operations Petrophysics</span>
               <hr />
               <p>
-                As we grow, we look forward to playing roles and becoming one of
-                key angel investors.
+                Before and during well drilling campaigns, we ensure compliance
+                with Health, Safety and Environment (HSE) standards applicable
+                to well construction; provide sub - surface technical support to
+                drilling team during planning of wells; and provide data
+                acquisition program input to well proposals. We also supervise
+                logging operations onshore and offshore; carry out cost
+                estimation of operations; prepare open - hole and cased - hole
+                logging programs for both rig and rigless operations; and work
+                with service vendors to establishing desire logging, coring and
+                testing procedures.
               </p>
               <i className='fa fa-star' id='fa fa-star'></i>
               <i className='fa fa-star' id='fa fa-star'></i>
@@ -36,8 +47,16 @@ const Services = () => {
               <span>Log Analysis</span>
               <hr />
               <p>
-                Through collaborations and use of technology, we aim at
-                achieving remarkable success in our undertakings.
+                Data preparation (data edit and depth matching); environmental
+                corrections for standard log curves; log normalization;
+                derivation of petophysical parameters and "Rw"; calculation of
+                porosity and clay volume; core - log integration; "Sw" and other
+                volumetric calculation; summation reports; poro - perm
+                relationship; saturation height modeling; special logging tool
+                applications; multi - well field evaluations; cased - hole /
+                production log evaluation; and other deliverables, applicable to
+                interative single and multi - well field reviews to support
+                development planning and production management.
               </p>
               <i className='fa fa-star' id='fa fa-star'></i>
               <i className='fa fa-star' id='fa fa-star'></i>
@@ -53,8 +72,16 @@ const Services = () => {
               <span>Risk Management</span>
               <hr />
               <p>
-                Risks in investing are inevitable; but still, they can be
-                mitigated through data collections and analyses.
+                Through the range of our services in the area of Petrophysics,
+                which start from development of data acquisition programs for
+                well proposals and drilling programs for exploration and
+                development well campaigns, we are always positioned to
+                mitigating risks associated with operations through effective
+                provision of onsite operations support and quick - look
+                evaluation of acquired data, and reporting evaluation results
+                real time. Proficiency in the usage of applicable industry
+                standard software and development of bespoke user programs to
+                solving unusual pains also help in risks management.
               </p>
               <i className='fa fa-star' id='fa fa-star'></i>
               <i className='fa fa-star' id='fa fa-star'></i>
@@ -71,9 +98,10 @@ const Services = () => {
         <h1 style={{ color: 'red', fontSize: '1.25rem' }}>Geoscience</h1>
         <p>
           Provision of shore - based and wellsite - based services, which helps
-          in making important operational decisions. And efficient intergration
+          in making important operational decisions. And efficient integration
           of suites of data with geologic and geophysical information in
-          frontier as well as mature basins facilitates best results.
+          frontier as well as mature basins facilitates best results in most
+          competitive ways.
         </p>
 
         <section className='row'>
@@ -86,7 +114,7 @@ const Services = () => {
                 Maximum utilization of Biostratigraphic and Sequence
                 Stratigraphic, be it conventional and quantitative, insights
                 using available suites of data in reducing exploration and
-                production risks.
+                production risks, and their potentials.
               </p>
               <i className='fa fa-star' id='fa fa-star'></i>
               <i className='fa fa-star' id='fa fa-star'></i>
@@ -123,8 +151,8 @@ const Services = () => {
               <p>
                 Understanding heat flow controls and processes through time,
                 assessment of source rock distribution, quantity and quality of
-                source hydrocarbons, kerogen type variability and its control on
-                petroleum generation.
+                source hydrocarbons, kerogen - type variability and its control
+                on petroleum generation.
               </p>
               <i className='fa fa-star' id='fa fa-star'></i>
               <i className='fa fa-star' id='fa fa-star'></i>
@@ -140,16 +168,19 @@ const Services = () => {
       <section className='testiomonial'>
         <h1 style={{ color: 'red', fontSize: '1.25rem' }}>Engineering</h1>
         <p>
-          Consistency and great timing shape how we build our vision, culture
-          and portfolios. We have goals, through which we meet by best
-          strategies and intelligences.
+          Purring Energy provides great and sound business - focused solutions
+          related to Oil & Gas engineering services ranging from Reservoir
+          Engineering, Production Engineering, Field Development Planning, and
+          Petroleum and Energy Economics. Purring Energy as well as its
+          applicable sister portfolio companies also supports Renewable Leads
+          for the Mix towards sustainability.
         </p>
 
         <section className='row'>
           <section className='testimonial-col' id='testimonial-col'>
             <i class='fa fa-shopping-basket' id='set' aria-hidden='true' />
             <section>
-              <span>Stocks & Bonds</span>
+              <span>Reservoir Engineering</span>
               <hr />
               <p>
                 Our expertise carefully analyses stocks and bonds investment
@@ -166,7 +197,7 @@ const Services = () => {
           <section className='testimonial-col' id='testimonial-col'>
             <i class='fa fa-address-card-o' id='set' aria-hidden='true' />
             <section>
-              <span>REITs & Crowdfunding</span>
+              <span>Production Engineering / Technology </span>
               <hr />
               <p>
                 We stay at par with world emerging tech, climate and business
@@ -183,7 +214,7 @@ const Services = () => {
           <section className='testimonial-col' id='testimonial-col'>
             <i class='fa fa-signal' id='set' aria-hidden='true' />
             <section>
-              <span>Crytography</span>
+              <span>PVT Analysis</span>
               <hr />
               <p>
                 We position, with least portions of our portfolio, to taking
