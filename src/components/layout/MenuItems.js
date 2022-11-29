@@ -1,32 +1,32 @@
 export const MenuItems = [
   {
     title: 'Petrophysics',
-    path: '/ui-ux',
+    path: '/#',
     cName: 'dropdown-link',
   },
   {
     title: 'Geoscience',
-    path: '/design',
+    path: '/#',
     cName: 'dropdown-link',
   },
   {
     title: 'Engineering',
-    path: '/front-end',
+    path: '/#',
     cName: 'dropdown-link',
   },
   {
     title: 'Legal Team',
-    path: '/back-end',
+    path: '/#',
     cName: 'dropdown-link',
   },
   {
     title: 'Finance',
-    path: '/ci-cd',
+    path: '/#',
     cName: 'dropdown-link',
   },
   {
     title: 'Economics',
-    path: '/testing',
+    path: '/#',
     cName: 'dropdown-link',
   },
 ];

@@ -17,7 +17,7 @@ const Services = () => {
 
         <section className='row'>
           <section className='testimonial-col' id='testimonial-col'>
-            <i class='fa fa-briefcase' id='set' aria-hidden='true' />
+            <i class='fa fa-thermometer-half' id='set' aria-hidden='true' />
             <section>
               <span>Operations Petrophysics</span>
               <hr />
@@ -42,7 +42,7 @@ const Services = () => {
           </section>
 
           <section className='testimonial-col' id='testimonial-col'>
-            <i class='fa fa-mobile' id='set' aria-hidden='true' />
+            <i class='fa fa-align-left' id='set' aria-hidden='true' />
             <section>
               <span>Log Analysis</span>
               <hr />
@@ -106,7 +106,7 @@ const Services = () => {
 
         <section className='row'>
           <section className='testimonial-col' id='testimonial-col'>
-            <i class='fa fa-shopping-basket' id='set' aria-hidden='true' />
+            <i class='fa fa-gavel' id='set' aria-hidden='true' />
             <section>
               <span>Stratigraphy</span>
               <hr />
@@ -125,7 +125,7 @@ const Services = () => {
           </section>
 
           <section className='testimonial-col' id='testimonial-col'>
-            <i class='fa fa-address-card-o' id='set' aria-hidden='true' />
+            <i class='fa fa-area-chart' id='set' aria-hidden='true' />
             <section>
               <span>Structural & Stratigraphic Modeling</span>
               <hr />
@@ -178,13 +178,15 @@ const Services = () => {
 
         <section className='row'>
           <section className='testimonial-col' id='testimonial-col'>
-            <i class='fa fa-shopping-basket' id='set' aria-hidden='true' />
+            <i class='fa fa-map-pin' id='set' aria-hidden='true' />
             <section>
               <span>Reservoir Engineering</span>
               <hr />
               <p>
-                Our expertise carefully analyses stocks and bonds investment
-                opportunities before we move to such deals of interest.
+                Our dedicated team of experts proffers great services on
+                Material Balance Analysis (MBA); Well Test Analysis (WTA);
+                Decline Curve Analysis (DCA); and other deliverables our clients
+                need.
               </p>
               <i className='fa fa-star' id='fa fa-star'></i>
               <i className='fa fa-star' id='fa fa-star'></i>
@@ -195,13 +197,15 @@ const Services = () => {
           </section>
 
           <section className='testimonial-col' id='testimonial-col'>
-            <i class='fa fa-address-card-o' id='set' aria-hidden='true' />
+            <i class='fa fa-cubes' id='set' aria-hidden='true' />
             <section>
               <span>Production Engineering / Technology </span>
               <hr />
               <p>
-                We stay at par with world emerging tech, climate and business
-                intelligences when it comes to real estate deals.
+                Our team of Engineers has a broad experience in Well Production
+                Performance Analysis; Well Modeling (Nodal Analysis); Well
+                Design and Optimization; and Technical Due Diligence and Asset
+                Evaluation.
               </p>
               <i className='fa fa-star' id='fa fa-star'></i>
               <i className='fa fa-star' id='fa fa-star'></i>
@@ -212,13 +216,14 @@ const Services = () => {
           </section>
 
           <section className='testimonial-col' id='testimonial-col'>
-            <i class='fa fa-signal' id='set' aria-hidden='true' />
+            <i class='fa fa-line-chart' id='set' aria-hidden='true' />
             <section>
               <span>PVT Analysis</span>
               <hr />
               <p>
-                We position, with least portions of our portfolio, to taking
-                best advantages in fungible and non - fungible tokens.
+                Our in - house sub - surface team works alongside clients to
+                deliver great works on Equation of State Modeling (EOS); Dynamic
+                Reservoir Simulation; and Field Development Planning (FDP).
               </p>
               <i className='fa fa-star' id='fa fa-star'></i>
               <i className='fa fa-star' id='fa fa-star'></i>
