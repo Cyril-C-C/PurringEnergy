@@ -12,7 +12,7 @@ const TeamContent = () => {
             Our high performance culture yields best, sustainable results that
             stand up to the toughest demand and volatility of energy
             marketplace. The biggest names in the industry entrust their pains
-            and products to us year afer year because our team gets results.
+            and products to us year after year because our team gets results.
             <br />
             <br />
             We will continue to learn, study and analyse ever - evolving energy
