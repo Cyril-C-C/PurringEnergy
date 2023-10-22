@@ -7,12 +7,12 @@ const Services = () => {
         <h1>Upstream (Hydrocarbons) Services</h1>
         <h1 style={{ color: 'red', fontSize: '1.25rem' }}>Petrophysics</h1>
         <p>
-          Integration of all sub - surface displines (geology, geophysics,
+          Integration of all sub - surface disciplines (geology, geophysics,
           petrophysics, reservoir engineering and production technology) towards
           creating sound knowledge streams that deliver high quality products to
           our esteemed clients. Suites of data: log, core, formation pressure
           and other supporting data are being made useful in developing clear,
-          consistent and repeatable workflows and evalution protocols.
+          consistent and repeatable workflows and evaluation protocols.
         </p>
 
         <section className='row'>
@@ -49,13 +49,13 @@ const Services = () => {
               <p>
                 Data preparation (data edit and depth matching); environmental
                 corrections for standard log curves; log normalization;
-                derivation of petophysical parameters and "Rw"; calculation of
+                derivation of petrophysical parameters and "Rw"; calculation of
                 porosity and clay volume; core - log integration; "Sw" and other
                 volumetric calculation; summation reports; poro - perm
                 relationship; saturation height modeling; special logging tool
                 applications; multi - well field evaluations; cased - hole /
                 production log evaluation; and other deliverables, applicable to
-                interative single and multi - well field reviews to support
+                interactive single and multi - well field reviews to support
                 development planning and production management.
               </p>
               <i className='fa fa-star' id='fa fa-star'></i>

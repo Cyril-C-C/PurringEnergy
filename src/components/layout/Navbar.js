@@ -36,7 +36,7 @@ const Navbar = () => {
               <Link to='/About'>ABOUT</Link>
             </li>
             <li>
-              <Link to='/Works'>PROJECTS</Link>
+              <Link to='/Works'>PORTFOLIOS</Link>
             </li>
             <li onMouseEnter={onMouseEnter} onMouseLeave={onMouseLeave}>
               <Link to='/Team'>

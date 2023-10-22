@@ -14,7 +14,7 @@ const WorksContent = () => {
             of each and every service we provide, whether for our associates,
             partners, communities, companies, financial or governmental
             institutions. Organizations partner with us to unlock solutions
-            catered for their needs today anf flexible for what they will want
+            catered for their needs today and flexible for what they will want
             tomorrow.
             <br />
             <br />
