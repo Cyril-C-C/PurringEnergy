@@ -14,7 +14,7 @@ const LaptopVideo = () => {
             Nigerian indigenous energy companies.
             <br />
             <br />
-            Our Mission is to set remarkable trails as we contribute to our
+            Our mission is to set remarkable trails as we contribute to our
             associates, partners, communities, companies, financial and
             governmental institutions.
             <br />
